@@ -5,6 +5,6 @@
   "dependencies": {
     "angular": "~1.0.8",
     "angular-sanitize": "~1.0.8",
-    "showdown": "~0.3.1"
+    "showdown-bower": "https://github.com/brutalhonesty/showdown-bower.git"
   }
 }
